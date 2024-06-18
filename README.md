@@ -1,0 +1,1 @@
+Every word (characters separated by non letters characters) start with an uppercase letter.
